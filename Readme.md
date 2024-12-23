@@ -1,6 +1,8 @@
-The application provides an interface to store data of customers and trainers.
-It also provides guidance for using various gym equipment empowering clients to perform exercises effectively.
-It includes Chat-GPT API which generates response related to GYM only.
+#Go And See ScreenShots
+
+1. The application provides an interface to store data of customers and trainers.
+2. It also provides guidance for using various gym equipment empowering clients to perform exercises effectively.
+3. It includes Chat-GPT API which generates response related to GYM only.
 
 # How To RUN
 
