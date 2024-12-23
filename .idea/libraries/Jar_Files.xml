@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Jar Files">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/Gym_Management/Gym_Management/Jar Files/radiance-substance-4.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Gym_Management/Gym_Management/Jar Files/radiance-neon-4.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Gym_Management/Gym_Management/Jar Files/json-20240303.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Gym_Management/Gym_Management/Jar Files/substance-5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Gym_Management/Gym_Management/Jar Files/radiance-trident-4.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Gym_Management/Gym_Management/Jar Files/mysql-connector-j-8.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
